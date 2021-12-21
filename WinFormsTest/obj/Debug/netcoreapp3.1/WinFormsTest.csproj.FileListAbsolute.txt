@@ -1,0 +1,96 @@
+C:\Users\AmonB\source\repos\WinFormsTest\WinFormsTest\bin\Debug\netcoreapp3.1\WinFormsTest.exe
+C:\Users\AmonB\source\repos\WinFormsTest\WinFormsTest\bin\Debug\netcoreapp3.1\WinFormsTest.deps.json
+C:\Users\AmonB\source\repos\WinFormsTest\WinFormsTest\bin\Debug\netcoreapp3.1\WinFormsTest.runtimeconfig.json
+C:\Users\AmonB\source\repos\WinFormsTest\WinFormsTest\bin\Debug\netcoreapp3.1\WinFormsTest.runtimeconfig.dev.json
+C:\Users\AmonB\source\repos\WinFormsTest\WinFormsTest\bin\Debug\netcoreapp3.1\WinFormsTest.dll
+C:\Users\AmonB\source\repos\WinFormsTest\WinFormsTest\bin\Debug\netcoreapp3.1\WinFormsTest.pdb
+C:\Users\AmonB\source\repos\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\WinFormsTest.csproj.AssemblyReference.cache
+C:\Users\AmonB\source\repos\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\WinFormsTest.Form1.resources
+C:\Users\AmonB\source\repos\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\WinFormsTest.csproj.GenerateResource.cache
+C:\Users\AmonB\source\repos\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\WinFormsTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AmonB\source\repos\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\WinFormsTest.AssemblyInfoInputs.cache
+C:\Users\AmonB\source\repos\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\WinFormsTest.AssemblyInfo.cs
+C:\Users\AmonB\source\repos\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\WinFormsTest.csproj.CoreCompileInputs.cache
+C:\Users\AmonB\source\repos\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\WinFormsTest.dll
+C:\Users\AmonB\source\repos\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\WinFormsTest.pdb
+C:\Users\AmonB\source\repos\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\WinFormsTest.genruntimeconfig.cache
+F:\WinFormsTest\WinFormsTest\bin\Debug\netcoreapp3.1\WinFormsTest.exe
+F:\WinFormsTest\WinFormsTest\bin\Debug\netcoreapp3.1\WinFormsTest.deps.json
+F:\WinFormsTest\WinFormsTest\bin\Debug\netcoreapp3.1\WinFormsTest.runtimeconfig.json
+F:\WinFormsTest\WinFormsTest\bin\Debug\netcoreapp3.1\WinFormsTest.runtimeconfig.dev.json
+F:\WinFormsTest\WinFormsTest\bin\Debug\netcoreapp3.1\WinFormsTest.dll
+F:\WinFormsTest\WinFormsTest\bin\Debug\netcoreapp3.1\WinFormsTest.pdb
+F:\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\WinFormsTest.csproj.AssemblyReference.cache
+F:\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\WinFormsTest.Form1.resources
+F:\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\WinFormsTest.csproj.GenerateResource.cache
+F:\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\WinFormsTest.GeneratedMSBuildEditorConfig.editorconfig
+F:\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\WinFormsTest.AssemblyInfoInputs.cache
+F:\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\WinFormsTest.AssemblyInfo.cs
+F:\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\WinFormsTest.csproj.CoreCompileInputs.cache
+F:\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\WinFormsTest.dll
+F:\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\WinFormsTest.pdb
+F:\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\WinFormsTest.genruntimeconfig.cache
+E:\WinFormsTest\WinFormsTest\bin\Debug\netcoreapp3.1\WinFormsTest.exe
+E:\WinFormsTest\WinFormsTest\bin\Debug\netcoreapp3.1\WinFormsTest.deps.json
+E:\WinFormsTest\WinFormsTest\bin\Debug\netcoreapp3.1\WinFormsTest.runtimeconfig.json
+E:\WinFormsTest\WinFormsTest\bin\Debug\netcoreapp3.1\WinFormsTest.runtimeconfig.dev.json
+E:\WinFormsTest\WinFormsTest\bin\Debug\netcoreapp3.1\WinFormsTest.dll
+E:\WinFormsTest\WinFormsTest\bin\Debug\netcoreapp3.1\WinFormsTest.pdb
+E:\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\WinFormsTest.csproj.AssemblyReference.cache
+E:\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\WinFormsTest.Form1.resources
+E:\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\WinFormsTest.csproj.GenerateResource.cache
+E:\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\WinFormsTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\WinFormsTest.AssemblyInfoInputs.cache
+E:\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\WinFormsTest.AssemblyInfo.cs
+E:\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\WinFormsTest.csproj.CoreCompileInputs.cache
+E:\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\WinFormsTest.dll
+E:\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\WinFormsTest.pdb
+E:\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\WinFormsTest.genruntimeconfig.cache
+C:\Users\AmonB\OneDrive\Desktop\WinFormsTest\WinFormsTest\bin\Debug\netcoreapp3.1\WinFormsTest.exe
+C:\Users\AmonB\OneDrive\Desktop\WinFormsTest\WinFormsTest\bin\Debug\netcoreapp3.1\WinFormsTest.deps.json
+C:\Users\AmonB\OneDrive\Desktop\WinFormsTest\WinFormsTest\bin\Debug\netcoreapp3.1\WinFormsTest.runtimeconfig.json
+C:\Users\AmonB\OneDrive\Desktop\WinFormsTest\WinFormsTest\bin\Debug\netcoreapp3.1\WinFormsTest.runtimeconfig.dev.json
+C:\Users\AmonB\OneDrive\Desktop\WinFormsTest\WinFormsTest\bin\Debug\netcoreapp3.1\WinFormsTest.dll
+C:\Users\AmonB\OneDrive\Desktop\WinFormsTest\WinFormsTest\bin\Debug\netcoreapp3.1\WinFormsTest.pdb
+C:\Users\AmonB\OneDrive\Desktop\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\WinFormsTest.csproj.AssemblyReference.cache
+C:\Users\AmonB\OneDrive\Desktop\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\WinFormsTest.Form1.resources
+C:\Users\AmonB\OneDrive\Desktop\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\WinFormsTest.csproj.GenerateResource.cache
+C:\Users\AmonB\OneDrive\Desktop\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\WinFormsTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AmonB\OneDrive\Desktop\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\WinFormsTest.AssemblyInfoInputs.cache
+C:\Users\AmonB\OneDrive\Desktop\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\WinFormsTest.AssemblyInfo.cs
+C:\Users\AmonB\OneDrive\Desktop\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\WinFormsTest.csproj.CoreCompileInputs.cache
+C:\Users\AmonB\OneDrive\Desktop\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\WinFormsTest.dll
+C:\Users\AmonB\OneDrive\Desktop\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\WinFormsTest.pdb
+C:\Users\AmonB\OneDrive\Desktop\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\WinFormsTest.genruntimeconfig.cache
+C:\Users\AmonB\OneDrive\Desktop\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\Kreis_Skizze.FormKreis.resources
+C:\Users\AmonB\OneDrive\Desktop\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\WinFormsTest.Properties.Resources.resources
+C:\Users\AmonB\OneDrive\Desktop\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\Kugel_Skizze.FormKugel.resources
+C:\Users\AmonB\OneDrive\Desktop\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\Viereck.FormViereck.resources
+C:\Users\AmonB\OneDrive\Desktop\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\DreieckPyramide.FormDreieck.resources
+C:\Users\AmonB\OneDrive\Desktop\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\Pyramide.FormPyramide.resources
+C:\Users\AmonB\OneDrive\Desktop\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\testintro.IntroForm.resources
+C:\Users\AmonB\OneDrive\Desktop\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\Würfel.FormWürfel.resources
+C:\Users\Florian Portmann\Downloads\WinFormsTest (2)\WinFormsTest\WinFormsTest\bin\Debug\netcoreapp3.1\WinFormsTest.exe
+C:\Users\Florian Portmann\Downloads\WinFormsTest (2)\WinFormsTest\WinFormsTest\bin\Debug\netcoreapp3.1\WinFormsTest.deps.json
+C:\Users\Florian Portmann\Downloads\WinFormsTest (2)\WinFormsTest\WinFormsTest\bin\Debug\netcoreapp3.1\WinFormsTest.runtimeconfig.json
+C:\Users\Florian Portmann\Downloads\WinFormsTest (2)\WinFormsTest\WinFormsTest\bin\Debug\netcoreapp3.1\WinFormsTest.runtimeconfig.dev.json
+C:\Users\Florian Portmann\Downloads\WinFormsTest (2)\WinFormsTest\WinFormsTest\bin\Debug\netcoreapp3.1\WinFormsTest.dll
+C:\Users\Florian Portmann\Downloads\WinFormsTest (2)\WinFormsTest\WinFormsTest\bin\Debug\netcoreapp3.1\WinFormsTest.pdb
+C:\Users\Florian Portmann\Downloads\WinFormsTest (2)\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\WinFormsTest.csproj.AssemblyReference.cache
+C:\Users\Florian Portmann\Downloads\WinFormsTest (2)\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\WinFormsTest.Form1.resources
+C:\Users\Florian Portmann\Downloads\WinFormsTest (2)\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\DreieckPyramide.FormDreieck.resources
+C:\Users\Florian Portmann\Downloads\WinFormsTest (2)\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\Kreis_Skizze.FormKreis.resources
+C:\Users\Florian Portmann\Downloads\WinFormsTest (2)\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\Kugel_Skizze.FormKugel.resources
+C:\Users\Florian Portmann\Downloads\WinFormsTest (2)\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\Pyramide.FormPyramide.resources
+C:\Users\Florian Portmann\Downloads\WinFormsTest (2)\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\Viereck.FormViereck.resources
+C:\Users\Florian Portmann\Downloads\WinFormsTest (2)\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\Würfel.FormWürfel.resources
+C:\Users\Florian Portmann\Downloads\WinFormsTest (2)\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\testintro.IntroForm.resources
+C:\Users\Florian Portmann\Downloads\WinFormsTest (2)\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\WinFormsTest.Properties.Resources.resources
+C:\Users\Florian Portmann\Downloads\WinFormsTest (2)\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\WinFormsTest.csproj.GenerateResource.cache
+C:\Users\Florian Portmann\Downloads\WinFormsTest (2)\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\WinFormsTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Florian Portmann\Downloads\WinFormsTest (2)\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\WinFormsTest.AssemblyInfoInputs.cache
+C:\Users\Florian Portmann\Downloads\WinFormsTest (2)\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\WinFormsTest.AssemblyInfo.cs
+C:\Users\Florian Portmann\Downloads\WinFormsTest (2)\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\WinFormsTest.csproj.CoreCompileInputs.cache
+C:\Users\Florian Portmann\Downloads\WinFormsTest (2)\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\WinFormsTest.dll
+C:\Users\Florian Portmann\Downloads\WinFormsTest (2)\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\WinFormsTest.pdb
+C:\Users\Florian Portmann\Downloads\WinFormsTest (2)\WinFormsTest\WinFormsTest\obj\Debug\netcoreapp3.1\WinFormsTest.genruntimeconfig.cache
